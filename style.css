@@ -1,0 +1,14 @@
+/*div {
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+/*using a type selector for all div tags*/
+.container .text { /*very important to have a space between container and . text*/
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+/*using a class selector for class defined as container and text*/
